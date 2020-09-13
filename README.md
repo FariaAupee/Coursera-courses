@@ -1,2 +1,2 @@
 # Coursera-courses
-Courses for Coursera-repository
+Repository for Coursera-courses
